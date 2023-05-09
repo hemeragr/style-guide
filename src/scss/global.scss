@@ -1,0 +1,9 @@
+@import './custom-properties';
+@import './mixins';
+@import './typography';
+@import './utilities';
+
+body {
+    background-color: var(--color-blue);
+    color: var(--color-black);
+}

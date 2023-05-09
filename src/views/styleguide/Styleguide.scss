@@ -1,0 +1,54 @@
+
+.container-colors {
+    display: flex;
+    text-align: center;
+}
+
+.st-colors {
+    width: 100px;
+    height: 100px;
+    border: 1px solid rgba(19, 19, 19, 0.25);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.25);
+
+}
+
+.color-red{
+    background-color: var(--color-red);
+}
+.color-white{
+    background-color: var(--color-white);
+}
+.color-yellow{
+    background-color: var(--color-yellow);
+   
+}
+.color-pink{
+    background-color: var(--color-pink);
+}
+.color-blue{
+    background-color: var(--color-blue);
+}
+.color-grey{
+    background-color: var(--color-grey);
+}
+.color-orange{
+    background-color: var(--color-orange);
+}
+.color-purple{
+    background-color: var(--color-purple);
+}
+.color-black{
+    background-color: var(--color-black);
+    color: var(--color-white);
+}
+.color-red{
+    background-color: var(--color-red);
+}
+.color-red{
+    background-color: var(--color-red);
+}
